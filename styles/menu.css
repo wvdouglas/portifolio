@@ -1,0 +1,21 @@
+.navbar{
+    background-color: white;
+    padding: 10px;
+}
+
+.navbar_content{
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+}
+
+.navbar_title{
+}
+
+.navbar_menu_mobile{
+}
+
+.navbar_links_mobile{
+    display: none;
+}
